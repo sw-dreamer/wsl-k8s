@@ -87,7 +87,7 @@ Kubernetes에서 중요한 몇 가지 개념을 소개합니다:
 
 ## 준비 사항
 - **WSL**(Windows Subsystem for Linux)
-- **Ubuntu 22.04**가 설치된 상태
+- **Ubuntu 22.04**
 - **Docker**가 이미 설치된 상태
 
 ## 1. Docker 설치 확인
